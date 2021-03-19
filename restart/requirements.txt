@@ -2,7 +2,7 @@ PyJWT
 Django==2.0.6
 django-cors-headers==2.4.0
 django-filter==1.1.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 requests==2.20.0
 Markdown==2.6.8
